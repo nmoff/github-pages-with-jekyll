@@ -1,11 +1,15 @@
+theme: minima
+
 title: nmoff user page maybe
 author: nmoff
+
 email: nmoff1@ocdsb.ca
+
 description: > # this means to ignore newlines until "baseurl:"
  Hey this is a thing, I dont know half of what I am doing but this is fun. <br>
  Maybe I put all of the photos of my cat here...
 
 # social links
-# DOnt really have social media, will make an account later.
+# Don't really have social media, will make an account later.
 
 show_excerpts: true # set to false to remove excerpts on the homepage
